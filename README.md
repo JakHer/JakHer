@@ -4,9 +4,9 @@
 
 I'm a passionate frontend developer striving to grow myself and everyone around me. Currently, I am fulfilling the dream of becoming Frontend Developer with React. Feel free to contact me at any of my social media.
 
-[<img align="left" alt=website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt=website" src="" />][website]
+[<img align="left" alt="linkedin src="" />][linkedin]
+[<img align="left" alt="instagram src="" />][instagram]
 
 [website]: https://jakher.github.io/
 [facebook]: https://www.facebook.com/messages/t/qbbaa
