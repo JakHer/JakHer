@@ -4,7 +4,7 @@
 
 I'm a passionate frontend developer striving to grow myself and everyone around me. Currently, I am fulfilling the dream of becoming Frontend Developer with React. Feel free to contact me at any of my social media.
 
-[<img align="left" width="22px" alt=website" src="https://raw.githubusercontent.com/JakHer/JakHer/0e112df5589cf9c932c94b505bb98131159cbdf3/assets/website32.svg" />][website]
+[<img align="left" width="22px" alt="website" src="https://raw.githubusercontent.com/JakHer/JakHer/0e112df5589cf9c932c94b505bb98131159cbdf3/assets/website32.svg" />][website]
 [<img align="left" width="22px" alt="linkedin src="https://raw.githubusercontent.com/JakHer/JakHer/0e112df5589cf9c932c94b505bb98131159cbdf3/assets/linked32.svg" />][linkedin]
 [<img align="left" width="22px" alt="instagram src="https://raw.githubusercontent.com/JakHer/JakHer/0e112df5589cf9c932c94b505bb98131159cbdf3/assets/instagram32.svg" />][instagram]
 
