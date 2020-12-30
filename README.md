@@ -15,6 +15,16 @@ I'm a passionate frontend developer striving to grow myself and everyone around 
 [instagram]: https://www.instagram.com/kubahermyt/
 [linkedin]: https://www.linkedin.com/in/jakub-hermyt/
 
+# Take a look at my projects:
+
+https://github.com/JakHer/FavNoteV2
+https://favnotes2.netlify.app/
+React + Redux
+
+https://github.com/JakHer/gatsby-blog
+https://jakherblog.netlify.app/
+Gatsby + GraphQl
+
 <!--
 **JakHer/JakHer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
