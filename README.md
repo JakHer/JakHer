@@ -10,7 +10,7 @@ I'm a passionate frontend developer striving to grow myself and everyone around 
 
 [<img align="left" width="22px" alt="messenger" src="https://raw.githubusercontent.com/JakHer/JakHer/0e112df5589cf9c932c94b505bb98131159cbdf3/assets/messenger32.svg" />][messenger]
 
-Take a look at my projects:
+# Take a look at my projects:
 
 https://github.com/JakHer/FavNoteV2
 https://favnotes2.netlify.app/
