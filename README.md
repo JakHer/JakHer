@@ -15,14 +15,18 @@ I'm a passionate frontend developer striving to grow myself and everyone around 
 [instagram]: https://www.instagram.com/kubahermyt/
 [linkedin]: https://www.linkedin.com/in/jakub-hermyt/
 
+<br/>
+
 # Take a look at my projects:
 
-https://github.com/JakHer/FavNoteV2
-https://favnotes2.netlify.app/
+## FavNote React Application
+https://github.com/JakHer/FavNoteV2<br/>
+https://favnotes2.netlify.app/<br/>
 React + Redux
 
-https://github.com/JakHer/gatsby-blog
-https://jakherblog.netlify.app/
+## Personal Gatsby Blog
+https://github.com/JakHer/gatsby-blog<br/>
+https://jakherblog.netlify.app/<br/>
 Gatsby + GraphQl
 
 <!--
